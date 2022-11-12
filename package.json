@@ -1,0 +1,24 @@
+{
+  "name": "weibo-keyword-nodejs-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangMingZhao1/weibo-keyword-nodejs-spider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhangMingZhao1/weibo-keyword-nodejs-spider/issues"
+  },
+  "homepage": "https://github.com/ZhangMingZhao1/weibo-keyword-nodejs-spider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "iconv-lite": "^0.6.3",
+    "request": "^2.88.2"
+  }
+}
